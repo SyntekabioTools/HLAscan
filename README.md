@@ -1,4 +1,5 @@
 # HLAscan
+![Install with Bioconda](https://img.shields.io/badge/version-v2.1.4-green)
 ## HLAscan Introduction
 1. Overview<br>
 HLAscan is an alignment-based program that determines haplotypes taking read distribution into account. The software performs alignment of reads to HLA sequences from the international ImMunoGeneTics project/human leukocyte antigen (IMGT/HLA) database.<br>
@@ -71,10 +72,10 @@ You can download programs from the links underneath or from the [release page](h
 - HLAscan v2.1.4<br>
 [HLAscan v2.1.4](https://github.com/SyntekabioTools/HLAscan/releases/download/v2.1.4/hla_scan_r_v2.1.4)
 
-- HLAscan v2.1.3 (특정 상황에서 프로그램 오류 해결)<br>
+- HLAscan v2.1.3 (An error in specific case is fixed.)<br>
 [HLAscan v2.1.3](https://github.com/SyntekabioTools/HLAscan/releases/download/v2.1.3/hla_scan_r_v2.1.3)
 
-- HLAscan v2.1.2 (특정 상황에서 프로그램 오류 해결)<br>
+- HLAscan v2.1.2 (An error in specific case is fixed.)<br>
 [HLAscan v2.1.2](https://github.com/SyntekabioTools/HLAscan/releases/download/v2.1.2/hla_scan_r_v2.1.2)
 
 - HLAscan v2.1.1<br>
